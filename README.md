@@ -2,7 +2,7 @@
 
 2026 부산대학교 TECH WEEK 해커톤 "Autonomous Search and Rescue" 과제의 구현 코드입니다.
 
-TurtleBot3 Burger가 사전 지도 없이 처음 보는 집 안을 탐색하며 지도를 만들고, 빨간 사과 2개를 찾아 각각 가까이 간 뒤 출발한 자리로 돌아옵니다. 집 안을 걸어 다니는 사람은 피해 갑니다.
+TurtleBot3 Burger가 사전 지도 없이 처음 보는 집 안을 탐색하며 지도를 만들고, 빨간 사과 2개를 찾아 각각 가까이 간 뒤 출발한 자리로 돌아옵니다. 집 안을 걸어 다니는 사람은 피해 다녀야 합니다. 
 
 ![임무 완료 순간의 대시보드](docs/images/mission_complete.png)
 
